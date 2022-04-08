@@ -1,0 +1,6 @@
+name: Tomoe
+author: SkayiZen
+version: 1.0
+main: me.skayizen.lobby.Main
+commands:
+  coins:
